@@ -1,0 +1,10 @@
+id,name,Parking_id,value
+1,Sensor1,1,0
+2,Sensor2,1,0
+3,Sensor3,1,1
+4,Sensor1,2,0
+5,Sensor2,2,1
+6,Sensor3,2,1
+7,Sensor1,3,0
+8,Sensor2,3,1
+9,Sensor3,3,1
